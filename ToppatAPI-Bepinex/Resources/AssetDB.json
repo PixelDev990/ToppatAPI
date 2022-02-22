@@ -798,6 +798,12 @@
       "SpriteRendererName": "bathroomabove",
       "Scale": 1
     },
+    "dec-ladders": {
+      "Name": "Airship Ladders",
+      "MapType": 4,
+      "SpriteRendererName": "airshipladder",
+      "Scale": 1
+    },
     "dec-bed1": {
       "Name": "Bed 1",
       "MapType": 1,
