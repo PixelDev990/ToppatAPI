@@ -7,7 +7,9 @@ A custom API for making your own maps
 [LevelIMP](https://levelimposter.net) (API Reference)
 # Made By:
 Plus Flippy \[Owner and Developer]
+<br>
 PixelKing \[Co-Owner and Developer]
+<br>
 PawanDewmina \[Artist & Content]
 <br>
 <br>
