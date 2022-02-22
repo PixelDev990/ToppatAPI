@@ -3,15 +3,12 @@
 </p>
 
 ## Features
-⚫ Includes Latest Among Us map Features (Ladders,Elevators)
-<br>
-⚫ Prebuilt Custom Server
-<br>
-⚫ Custom Task Support (C# knowledge needed)
-<br>
-⚫ Custom Cosmetics
-<br>
-And Much More.... (Elevators , Custom Sabotages , Custom Ejects)
+- Includes Latest Among Us map Features (Ladders,Elevators)
+- Prebuilt Custom Server
+- Custom Task Support (C# knowledge needed)
+- Custom Cosmetics
+-  And Much More.... (Elevators , Custom Sabotages , Custom Ejects)
+
 # Credits
 Owner = PlusFlippy
 <br>
@@ -22,7 +19,7 @@ Head Devloper = VoidGo
 Head Artist = PawanDewmina
 <br>
 # Uses:
-[Reactor](https://docs.reactor.gg) - Framework, will be replaced
+[Reactor](https://docs.reactor.gg) - framework, will be replaced
 <br>
 [LevelIMP](https://levelimposter.net) - API Reference
 <br>
